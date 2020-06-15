@@ -1,0 +1,43 @@
+.table{
+    border: 1px solid #233858;
+    border-collapse: collapse;
+    width: 300px;
+}
+
+.table td{
+    border: 1px solid #233858;
+    padding: 5px;
+}
+
+.table th{
+    border: 1px solid #233858;
+    padding: 5px;
+}
+.ui.button{
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none !important;
+}
+.red{
+    background-color: #e63c49;
+    padding: 8px !important;
+    color: white;
+}
+.ui.cyan.button{
+    padding: 5px;
+    background-color: #a6d9dc;
+    color: #233858;
+    border: none;
+    margin: auto;
+    display: block;
+    text-decoration: none !important;
+}
+
+.button:hover{
+    cursor: pointer;
+}
+
+.title{
+    color: #233858;
+}
