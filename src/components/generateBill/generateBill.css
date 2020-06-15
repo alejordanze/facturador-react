@@ -1,0 +1,13 @@
+.download{
+    text-decoration: none;
+    background-color: #e63c49;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.download.blue{
+    background-color: #a6d9dc;
+    color: #233858;
+}
