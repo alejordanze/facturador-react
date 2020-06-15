@@ -1,0 +1,14 @@
+.container{
+  margin: 30px;
+}
+
+.input{
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #233858;
+  width: 200px;
+}
+
+.label-input{
+  margin-bottom: 15px !important;
+}
