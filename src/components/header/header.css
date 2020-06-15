@@ -1,0 +1,26 @@
+.header{
+    background-color: #233858;
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    margin: 0;
+    height: 60px;
+}
+
+.item{
+    float: left;
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    margin: 0;
+}
+
+.item.active{
+    background-color: #162438;
+}   
+
+.item:hover{
+    background-color: #46799c;
+}
